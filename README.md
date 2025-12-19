@@ -36,7 +36,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=earthwrld&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthwrld&layout=compact&theme=dracula&hide_border=false" height="150" alt="top languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=earthwrld&show_icons=true&theme=dracula&hide_border=false" height="150" alt="github stats" />
 </div>
 
