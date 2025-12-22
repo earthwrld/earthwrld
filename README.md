@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<h3 align="center">I'm Bumi from Indonesia 🇮🇩</h3>
-
 <div align="center">
 
  📚 I'm currently learning **Cybersecurity** <br>
