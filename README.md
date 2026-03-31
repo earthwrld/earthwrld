@@ -1,4 +1,4 @@
-<h1 align="center">What's Up?</h1>
+<h1 align="center">Wazzappp</h1>
 
 <br>
 
