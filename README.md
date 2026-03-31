@@ -1,13 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-<h3 align="center">I'm Bumi Aryadirangga from Indonesia 🇮🇩</h3>
-
-<div align="center">
-
- 📚 I'm currently learning **Cybersecurity** <br>
- ⚡ In my free time, I like to read and play **CTF**
-
-</div>
+<h1 align="center">What's Up?</h1>
 
 <br>
 
@@ -17,20 +8,6 @@
   <img src="https://github.com/user-attachments/assets/5f22410d-93c0-4555-ba53-989b3a6d0787" height="60" alt="arch linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://linkedin.com/in/-">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/-">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://medium.com/@">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
 </div>
 
 <br>
